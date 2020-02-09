@@ -58,6 +58,7 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/ringtones/ogg/Girtab.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Girtab.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Hydra.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Hydra.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Kuma.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Kuma.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/LuisWuff.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/LuisWuff.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Machina.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Machina.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Orion.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Orion.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Pegasus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Pegasus.ogg \
