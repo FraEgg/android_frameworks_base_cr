@@ -61,6 +61,7 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/ringtones/Draco.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Draco.ogg \
 	$(LOCAL_PATH)/ringtones/Eridani.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Eridani.ogg \
 	$(LOCAL_PATH)/ringtones/hydra.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/hydra.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/LuisWuff.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/LuisWuff.ogg \
 	$(LOCAL_PATH)/ringtones/Lyra.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Lyra.ogg \
 	$(LOCAL_PATH)/ringtones/Machina.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Machina.ogg \
 	$(LOCAL_PATH)/ringtones/Orion.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Orion.ogg \
